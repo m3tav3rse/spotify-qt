@@ -1,14 +1,11 @@
 var searchData=
 [
-  ['time_183',['time',['../classlib_1_1fmt.html#a67eae24039d6ac4f417f57c05e430b72',1,'lib::fmt']]],
-  ['to_5fdate_184',['to_date',['../classlib_1_1date__time.html#adcb6c5748d16e4bc48061d301c896753',1,'lib::date_time']]],
-  ['to_5fiso_5fdate_185',['to_iso_date',['../classlib_1_1date__time.html#a061bf6d869d25d5caa8bdb06c10116ec',1,'lib::date_time']]],
-  ['to_5fiso_5fdate_5ftime_186',['to_iso_date_time',['../classlib_1_1date__time.html#ade83ae33f57ca2136dacab362f8b6380',1,'lib::date_time']]],
-  ['to_5fjson_187',['to_json',['../classlib_1_1settings.html#a14ccd7fdc846d15aeb744bb60f803625',1,'lib::settings']]],
-  ['to_5flower_188',['to_lower',['../classlib_1_1strings.html#a84c3a5228ce4969de2ca4f7db27a9552',1,'lib::strings']]],
-  ['to_5fstring_189',['to_string',['../classlib_1_1log__message.html#a8808485640fcd15990f49a6ffaf821bc',1,'lib::log_message']]],
-  ['to_5ftime_190',['to_time',['../classlib_1_1date__time.html#a00868acf92467a13aeeea6b0a4b17f5a',1,'lib::date_time']]],
-  ['tracks_191',['tracks',['../classlib_1_1cache.html#a2b581922d5b8d1dcd2545696c8b82250',1,'lib::cache']]],
-  ['trim_192',['trim',['../classlib_1_1strings.html#a6051a740aab86e511a5d9b3ddcf94c46',1,'lib::strings']]],
-  ['try_5fto_5fint_193',['try_to_int',['../classlib_1_1strings.html#a8649de0fee5b94326abc2bee9ea6d0df',1,'lib::strings']]]
+  ['recently_5fplayed_300',['recently_played',['../classlib_1_1spt_1_1api.html#abd52d73893c4175cc039557b51dda56e',1,'lib::spt::api']]],
+  ['refresh_301',['refresh',['../classlib_1_1spt_1_1api.html#a294dd5d87ca2258de4235a3eb5285285',1,'lib::spt::api']]],
+  ['remove_302',['remove',['../classlib_1_1strings.html#ad8106cae3098ed9d40274d1d69328037',1,'lib::strings']]],
+  ['remove_5fclient_303',['remove_client',['../classlib_1_1settings.html#ae2330fba54af6807d6a94efc251cd6bf',1,'lib::settings']]],
+  ['remove_5ftokens_304',['remove_tokens',['../classlib_1_1settings.html#a69d1bf12df87f80ee68bf7c3f4052641',1,'lib::settings']]],
+  ['replace_5fall_305',['replace_all',['../classlib_1_1strings.html#a2e11df1d2817a24dce01971c7d55dbac',1,'lib::strings']]],
+  ['resume_306',['resume',['../classlib_1_1spt_1_1api.html#ab2fb6d5bc3df674e5f7bab48d4ddc5bb',1,'lib::spt::api']]],
+  ['right_307',['right',['../classlib_1_1strings.html#a3729f9c8c75940d0a09a2b9686bc4fbd',1,'lib::strings']]]
 ];

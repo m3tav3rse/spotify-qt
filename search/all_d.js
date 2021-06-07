@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['now_64',['now',['../classlib_1_1date__time.html#a35238f87e42b79876f44422f6ff3ccce',1,'lib::date_time']]],
-  ['now_5futc_65',['now_utc',['../classlib_1_1date__time.html#a5c1660614a8ff0a51e19fe94a3271a87',1,'lib::date_time']]]
+  ['owner_5fid_104',['owner_id',['../classlib_1_1spt_1_1playlist.html#a59f10ebad47330939b4759c3f0a982ea',1,'lib::spt::playlist']]],
+  ['owner_5fname_105',['owner_name',['../classlib_1_1spt_1_1playlist.html#a9af238a93a7984167540d3b406ca3b86',1,'lib::spt::playlist']]]
 ];

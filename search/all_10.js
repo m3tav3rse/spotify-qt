@@ -1,19 +1,14 @@
 var searchData=
 [
-  ['save_78',['save',['../classlib_1_1settings.html#a8dd0f510173f8faf1aa02b657ad29ff7',1,'lib::settings']]],
-  ['set_79',['set',['../classlib_1_1locale.html#af5f696c35d27320647d41bf9f6f91bad',1,'lib::locale']]],
-  ['set_5fdark_5ftheme_80',['set_dark_theme',['../classlib_1_1settings.html#ad5e6ef0f01c16e379d1cba73986360b3',1,'lib::settings']]],
-  ['set_5flog_5fto_5fstdout_81',['set_log_to_stdout',['../classlib_1_1log.html#a7372d15a115a450ddcf7b22ad3c2232a',1,'lib::log']]],
-  ['settings_82',['settings',['../classlib_1_1settings.html',1,'lib::settings'],['../classlib_1_1settings.html#adb2eacf4134e51934d779cb6d933c6a9',1,'lib::settings::settings()']]],
-  ['show_5fchangelog_83',['show_changelog',['../structlib_1_1set_1_1general.html#a2b1eb5136d277f58c1cd6a32e9710488',1,'lib::set::general']]],
-  ['show_5fcontext_5finfo_84',['show_context_info',['../structlib_1_1set_1_1general.html#ac2cc3867b8fbd6d1a17cad5f0daca00f',1,'lib::set::general']]],
-  ['size_85',['size',['../classlib_1_1fmt.html#af388b7f2f3b09a114f8b488b20ac11be',1,'lib::fmt']]],
-  ['song_5fheader_5fsort_5fby_86',['song_header_sort_by',['../structlib_1_1set_1_1general.html#a9031c2f69122ed43a1ebaa7903105eb5',1,'lib::set::general']]],
-  ['split_87',['split',['../classlib_1_1strings.html#aae402245d75d9ccad4055eb6dd7c042c',1,'lib::strings']]],
-  ['spotify_88',['spotify',['../structlib_1_1set_1_1spotify.html',1,'lib::set::spotify'],['../classlib_1_1settings.html#a340b8c9dfc91994ca88eb2732c2f6a0f',1,'lib::settings::spotify()']]],
-  ['start_5fclient_89',['start_client',['../structlib_1_1set_1_1spotify.html#a803d11bbe0faad8d9cdec771630c97bd',1,'lib::set::spotify']]],
-  ['starts_5fwith_90',['starts_with',['../classlib_1_1strings.html#a59d2e4c47821e17e5b10022aab4ff20f',1,'lib::strings']]],
-  ['strings_91',['strings',['../classlib_1_1strings.html',1,'lib']]],
-  ['style_92',['style',['../structlib_1_1set_1_1general.html#aa631b32b6e362178bd9eb42db1794db8',1,'lib::set::general']]],
-  ['style_5fpalette_93',['style_palette',['../structlib_1_1set_1_1general.html#a760a78712c9b25f2536d04bf1d86a26c',1,'lib::set::general']]]
+  ['random_123',['random',['../classlib_1_1random.html',1,'lib']]],
+  ['recently_5fplayed_124',['recently_played',['../classlib_1_1spt_1_1api.html#abd52d73893c4175cc039557b51dda56e',1,'lib::spt::api']]],
+  ['refresh_125',['refresh',['../classlib_1_1spt_1_1api.html#a294dd5d87ca2258de4235a3eb5285285',1,'lib::spt::api']]],
+  ['release_5fdate_126',['release_date',['../classlib_1_1spt_1_1album.html#a12f19a9ab0139d5033d22a9839e7a73f',1,'lib::spt::album']]],
+  ['remove_127',['remove',['../classlib_1_1strings.html#ad8106cae3098ed9d40274d1d69328037',1,'lib::strings']]],
+  ['remove_5fclient_128',['remove_client',['../classlib_1_1settings.html#ae2330fba54af6807d6a94efc251cd6bf',1,'lib::settings']]],
+  ['remove_5ftokens_129',['remove_tokens',['../classlib_1_1settings.html#a69d1bf12df87f80ee68bf7c3f4052641',1,'lib::settings']]],
+  ['repeat_130',['repeat',['../classlib_1_1spt_1_1playback.html#aa9f346fa0c4f0c68ed0b9c808315c57d',1,'lib::spt::playback']]],
+  ['replace_5fall_131',['replace_all',['../classlib_1_1strings.html#a2e11df1d2817a24dce01971c7d55dbac',1,'lib::strings']]],
+  ['resume_132',['resume',['../classlib_1_1spt_1_1api.html#ab2fb6d5bc3df674e5f7bab48d4ddc5bb',1,'lib::spt::api']]],
+  ['right_133',['right',['../classlib_1_1strings.html#a3729f9c8c75940d0a09a2b9686bc4fbd',1,'lib::strings']]]
 ];

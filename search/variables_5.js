@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['fallback_5ficons_207',['fallback_icons',['../structlib_1_1set_1_1general.html#a8df3de7b4e501432a5c73585f79ceb5d',1,'lib::set::general']]],
-  ['fixed_5fwidth_5ftime_208',['fixed_width_time',['../structlib_1_1set_1_1general.html#a7cd2767319f0046d265c26a22d99e6ae',1,'lib::set::general']]]
+  ['general_363',['general',['../classlib_1_1settings.html#a166dc4c1e2727773d9576ad30f5c32ca',1,'lib::settings']]],
+  ['genres_364',['genres',['../classlib_1_1spt_1_1artist.html#a06c0a0e30c21b5a9e1a5d04d5bce52d0',1,'lib::spt::artist']]]
 ];

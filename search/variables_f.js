@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['username_238',['username',['../structlib_1_1set_1_1spotify.html#a43880013a377b780d4845edbde9fb2fa',1,'lib::set::spotify']]]
+  ['volume_5fpercent_392',['volume_percent',['../classlib_1_1spt_1_1device.html#a4660cde6df9a480e5594d8252413140b',1,'lib::spt::device']]]
 ];
